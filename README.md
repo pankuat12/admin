@@ -60,3 +60,6 @@ php artisan serve
 
 🎥 Demo (Screenshots)
 /root/demo/
+
+mail - admin.gmail.com
+password - admin
